@@ -1,0 +1,11 @@
+D:\Software Engineering\DEGREE\SEM 6\Visual Programming\Mid Term\Code\MID TERM\bin\Debug\MID TERM.exe.config
+D:\Software Engineering\DEGREE\SEM 6\Visual Programming\Mid Term\Code\MID TERM\bin\Debug\MID TERM.exe
+D:\Software Engineering\DEGREE\SEM 6\Visual Programming\Mid Term\Code\MID TERM\bin\Debug\MID TERM.pdb
+D:\Software Engineering\DEGREE\SEM 6\Visual Programming\Mid Term\Code\MID TERM\obj\Debug\MID TERM.csproj.AssemblyReference.cache
+D:\Software Engineering\DEGREE\SEM 6\Visual Programming\Mid Term\Code\MID TERM\obj\Debug\MID_TERM.Form1.resources
+D:\Software Engineering\DEGREE\SEM 6\Visual Programming\Mid Term\Code\MID TERM\obj\Debug\MID_TERM.Properties.Resources.resources
+D:\Software Engineering\DEGREE\SEM 6\Visual Programming\Mid Term\Code\MID TERM\obj\Debug\MID TERM.csproj.GenerateResource.cache
+D:\Software Engineering\DEGREE\SEM 6\Visual Programming\Mid Term\Code\MID TERM\obj\Debug\MID TERM.csproj.CoreCompileInputs.cache
+D:\Software Engineering\DEGREE\SEM 6\Visual Programming\Mid Term\Code\MID TERM\obj\Debug\MID TERM.exe
+D:\Software Engineering\DEGREE\SEM 6\Visual Programming\Mid Term\Code\MID TERM\obj\Debug\MID TERM.pdb
+D:\Software Engineering\DEGREE\SEM 6\Visual Programming\Mid Term\Code\MID TERM\obj\Debug\MID TERM.csproj.SuggestedBindingRedirects.cache
